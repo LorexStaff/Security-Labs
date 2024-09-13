@@ -1,0 +1,15 @@
+C:\Users\днс\Documents\IS_LAB1\bin\Debug\net6.0\IS_LAB1.exe
+C:\Users\днс\Documents\IS_LAB1\bin\Debug\net6.0\IS_LAB1.deps.json
+C:\Users\днс\Documents\IS_LAB1\bin\Debug\net6.0\IS_LAB1.runtimeconfig.json
+C:\Users\днс\Documents\IS_LAB1\bin\Debug\net6.0\IS_LAB1.dll
+C:\Users\днс\Documents\IS_LAB1\bin\Debug\net6.0\IS_LAB1.pdb
+C:\Users\днс\Documents\IS_LAB1\obj\Debug\net6.0\IS_LAB1.csproj.AssemblyReference.cache
+C:\Users\днс\Documents\IS_LAB1\obj\Debug\net6.0\IS_LAB1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\днс\Documents\IS_LAB1\obj\Debug\net6.0\IS_LAB1.AssemblyInfoInputs.cache
+C:\Users\днс\Documents\IS_LAB1\obj\Debug\net6.0\IS_LAB1.AssemblyInfo.cs
+C:\Users\днс\Documents\IS_LAB1\obj\Debug\net6.0\IS_LAB1.csproj.CoreCompileInputs.cache
+C:\Users\днс\Documents\IS_LAB1\obj\Debug\net6.0\IS_LAB1.dll
+C:\Users\днс\Documents\IS_LAB1\obj\Debug\net6.0\refint\IS_LAB1.dll
+C:\Users\днс\Documents\IS_LAB1\obj\Debug\net6.0\IS_LAB1.pdb
+C:\Users\днс\Documents\IS_LAB1\obj\Debug\net6.0\IS_LAB1.genruntimeconfig.cache
+C:\Users\днс\Documents\IS_LAB1\obj\Debug\net6.0\ref\IS_LAB1.dll
