@@ -42,6 +42,7 @@ namespace IS_LAB1
             Console.WriteLine(SubS(sym1, sym2));
         }
 
+        //Символ в число
         public static int Sym2Num(char sym)
         {
             int tmp = (int)sym;
@@ -52,6 +53,7 @@ namespace IS_LAB1
             return 0; // Для пробела 
         }
 
+        //Число в символ
         public static char Num2Sym(int num)
         {
             if (num != 0)
@@ -62,6 +64,7 @@ namespace IS_LAB1
             return '_';
         }
 
+        //Текст в массив
         public static int[] Text2Array(string input)
         {
             int[] output = new int[input.Length];
@@ -72,6 +75,7 @@ namespace IS_LAB1
             return output;
         }
 
+        //Массив в текст
         public static string Array2Text(int[] arr)
         {
             string output = "";
@@ -82,18 +86,21 @@ namespace IS_LAB1
             return output;
         }
 
+        //Сложение символов
         public static char AddS(char s1, char s2)
         {
             int tmp = Sym2Num(s1) + Sym2Num(s2);
             return Num2Sym(tmp % 32);
         }
 
+        //Вычитание символов
         public static char SubS(char s1, char s2)
         {
             int tmp = Sym2Num(s1) - Sym2Num(s2) + 32;
             return Num2Sym(tmp % 32);
         }
 
+        //Сложение текстов
         public static string AddTxt(string T1_IN, string T2_IN)
         {
             string output = "";
@@ -113,6 +120,7 @@ namespace IS_LAB1
             return output;
         }
 
+        //Вычитание текстов
         public static string SubTxt(string T1_IN, string T2_IN)
         {
             string output = "";
